@@ -1,7 +1,4 @@
 import sys
-<<<<<<< HEAD
-
-=======
 import constants
 import validate_archive
 
@@ -39,4 +36,3 @@ def main():
 # Call to main function
 if __name__ == "__main__":
     main()
->>>>>>> f3c2e51ab65ccbd42d71177953041c4d6c7232d0
